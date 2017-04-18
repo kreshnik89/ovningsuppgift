@@ -11,6 +11,7 @@ namespace restadslöakd
         static void Main(string[] args)
         {
             Console.WriteLine("Jag testar Git");
+            Console.WriteLine("Testar från nätet");
             Console.ReadKey();
         }
     }
