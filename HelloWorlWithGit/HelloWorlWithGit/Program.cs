@@ -10,6 +10,7 @@ namespace HelloWorlWithGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Tjenare, testar igen");
         }
     }
 }
